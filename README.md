@@ -4,6 +4,7 @@ fork from https://github.com/yaoyx689/Fast-Robust-ICP
 
 ## 使用方法
 
+git 貌似有问题，通过 https://github.com/BlademasterQAQ/Fast-Robust-ICP-VS2017/files/8183960/Fast-Robust-ICP-master-VS2017.zip 下载吧。
 下载并解压后，使用**Visual Studio 2017**打开[Fast-Robust-ICP-master-VS2017.sln](Fast-Robust-ICP-master-VS2017.sln)文件，然后理论上可以直接运行。
 
 ## 说明
